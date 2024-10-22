@@ -1,0 +1,5 @@
+Background:
+posicaox = 0
+imagemDeFundoLoad = LoadImage("fundocorrendo2.png")
+spriteDoFundoCorrendo = CreateSprite(imagemDeFundoLoad)
+SetSpritePosition(spriteDoFundoCorrendo,posicaox,699)
